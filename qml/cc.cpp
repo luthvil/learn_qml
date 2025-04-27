@@ -9,7 +9,7 @@ public:
 
 class Derived : public Base {
 public:
-    ~Derived()  {
+    ~Derived() override {
         std::cout << "Derived destructor called." << std::endl;
     }
 };
