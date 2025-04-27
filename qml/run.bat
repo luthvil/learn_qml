@@ -1,0 +1,1 @@
+D:\Qt\6.9.0\mingw_64\bin\qml.exe login.qml
